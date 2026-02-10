@@ -7,7 +7,7 @@
 This repository is **release-only**.
 
 - All **testing, development, and compilation** are performed **locally**
-- This repository is used **solely for publishing prebuilt APK releases**
+- This repository is used **solely for publishing local APK releases**
 - No CI/CD, automated builds, or testing pipelines are run from this repository
 
 All experimental changes and build verification are completed off-repository before releases are published here.
