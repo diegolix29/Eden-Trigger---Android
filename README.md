@@ -2,6 +2,15 @@
 
 <img width="1024" height="1024" alt="eden trigger" src="https://github.com/user-attachments/assets/ecb1d65d-f0d2-457f-887f-84abf4b1b5e8" />
 
+## 📦 Release-Only Repository Notice
+
+This repository is **release-only**.
+
+- All **testing, development, and compilation** are performed **locally**
+- This repository is used **solely for publishing prebuilt APK releases**
+- No CI/CD, automated builds, or testing pipelines are run from this repository
+
+All experimental changes and build verification are completed off-repository before releases are published here.
 
 ## Overview
 
@@ -139,6 +148,18 @@ This project maintains the same license as the original Eden Emulator Project (G
 ---
 
 **Thank you for trying this experimental fork!**
+
+## ⚠️ Disclaimer
+
+This is an **unofficial experimental fork** of the Eden Emulator Project.
+
+- I am **not affiliated with, associated with, or endorsed by** the Eden Emulator development team
+- This fork is an **independent experiment**
+- Any changes, builds, or releases provided here **do not represent the official Eden project**
+- I will only update commits and test QoL changes.
+  
+Use at your own risk.
+
 
 <img width="1024" height="1024" alt="eden trigger icon" src="https://github.com/user-attachments/assets/c8820d64-a07a-4985-988c-7dfb63dd97e7" />
 
