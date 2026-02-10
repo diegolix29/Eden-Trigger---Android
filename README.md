@@ -1,5 +1,8 @@
 # Eden Experimental Fork
 
+<img width="1024" height="1024" alt="eden trigger" src="https://github.com/user-attachments/assets/ecb1d65d-f0d2-457f-887f-84abf4b1b5e8" />
+
+
 ## Overview
 
 This is an **experimental fork** of the Eden Emulator Project, designed to test and implement various features and optimizations. This fork focuses on enhancing user experience through additional performance monitoring and memory management features.
@@ -135,4 +138,7 @@ This project maintains the same license as the original Eden Emulator Project (G
 
 ---
 
-**Thank you for trying this experimental fork! Your feedback helps improve the Eden emulator experience.**
+**Thank you for trying this experimental fork!**
+
+<img width="1024" height="1024" alt="eden trigger icon" src="https://github.com/user-attachments/assets/c8820d64-a07a-4985-988c-7dfb63dd97e7" />
+
